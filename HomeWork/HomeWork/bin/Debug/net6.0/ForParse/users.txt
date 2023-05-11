@@ -1,0 +1,3 @@
+John, 12, M
+Anna, 69, F
+Elly, 5, F
